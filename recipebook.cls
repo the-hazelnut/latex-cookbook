@@ -227,7 +227,7 @@
 	\vspace{1cm}
 	\begin{tikzpicture}[remember picture, overlay]
 		\node[fill=bgIngredients, opacity=1.0, anchor=north west, minimum width=6.5cm, minimum height=15cm, inner sep=0pt] 
-		at ([xshift=50pt,yshift=-350pt]current page.north west) {};
+		at ([xshift=50pt,yshift=-810pt]current page.north west) {}; % Changed from yshift -350
 	\end{tikzpicture}%
 	\hspace{70pt}%
 	\begin{minipage}[t]{0.25\textwidth}
